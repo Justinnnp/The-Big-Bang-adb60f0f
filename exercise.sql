@@ -1,1 +1,1 @@
- CREATE DATABASE help;
+ CREATE DATABASE Sterrenstelsel;
